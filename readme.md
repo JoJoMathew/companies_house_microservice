@@ -3,15 +3,17 @@ To run the project, if you do not have installed already on your machine you wil
 •	Node.js and npm (The Node.js installation will also install npm) https://nodejs.org/en/
 
 Unzip the downloaded project folder then initialize the npm project inside ./games directory and install necessary dependencies by executing the following commands:
+
+```
 npm init -y
 npm install express body-parser	
-
+```
 
 
 To run the service, from within the /games directory run the following command:
-'''
+```
 node gamesService.js
-'''
+```
 
 
 #Usage:
