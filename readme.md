@@ -9,7 +9,7 @@ npm install express body-parser
 
 
 To run the service, from within the /games directory run the following command:
-'''bash
+'''
 node gamesService.js
 '''
 
